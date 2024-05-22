@@ -2,9 +2,6 @@ package modelo;
 
 import java.io.Serializable;
 
-/**
- * @author Juan Díez-Yanguas Barber
- */
 public class Usuario implements Serializable{
     private String nombre;
     private String dir;
