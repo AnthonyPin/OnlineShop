@@ -11,9 +11,6 @@ import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 import org.owasp.esapi.errors.ValidationException;
 
-/**
- * @author Juan Díez-Yanguas Barber
- */
 public class StartListener implements ServletContextListener {
 
     private PersistenceInterface persistence;
