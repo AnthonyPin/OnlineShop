@@ -14,9 +14,7 @@ import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 import persistencia.PersistenceInterface;
 
-/**
- * @author Juan Díez-Yanguas Barber
- */
+
 public class LogFilter implements Filter {
 
     @Override
