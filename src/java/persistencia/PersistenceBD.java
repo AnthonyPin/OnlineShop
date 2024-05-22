@@ -27,10 +27,6 @@ import javax.sql.DataSource;
 //@contador numero inicial de líneas en la clase: 987
 //@contador después de modificaciones: 887
 
-/**
- * Clase que sigue el modelo singleton que impide tener más de un objeto de esa clase en la aplicación
- * @author Juan Díez-Yanguas Barber
- */
 public class PersistenceBD implements PersistenceInterface {
 
     private static final PersistenceBD instance = new PersistenceBD();
