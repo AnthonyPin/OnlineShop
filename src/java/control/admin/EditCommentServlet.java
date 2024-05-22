@@ -11,9 +11,6 @@ import javax.servlet.http.HttpServletResponse;
 import org.owasp.esapi.errors.IntrusionException;
 import persistencia.PersistenceInterface;
 
-/**
- * @author Juan Díez-Yanguas Barber
- */
 public class EditCommentServlet extends HttpServlet {
 
     
