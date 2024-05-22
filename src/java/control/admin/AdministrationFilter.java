@@ -13,9 +13,6 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import persistencia.PersistenceInterface;
 
-/**
- * @author JuanDYB
- */
 public class AdministrationFilter implements Filter {
 
     @Override
