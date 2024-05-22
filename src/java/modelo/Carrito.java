@@ -4,9 +4,6 @@ import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author Juan Díez-Yanguas Barber
- */
 public class Carrito implements Serializable{
     private String codigo;
     private String user;
