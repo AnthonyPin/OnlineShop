@@ -7,9 +7,6 @@ import javax.servlet.http.HttpSessionEvent;
 import javax.servlet.http.HttpSessionListener;
 import persistencia.PersistenceInterface;
 
-/**
- * @author Juan Díez-Yanguas Barber
- */
 public class SaveSessionListener implements HttpSessionListener {
 
     @Override
