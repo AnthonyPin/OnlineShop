@@ -24,9 +24,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * @author Juan Díez-Yanguas Barber
- */
 public class PersistenceFile implements PersistenceInterface {
 
     private static final PersistenceFile persistence = new PersistenceFile();
