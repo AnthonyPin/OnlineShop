@@ -15,9 +15,6 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 import javax.servlet.ServletContext;
 
-/**
- * @author Juan Díez-Yanguas Barber
- */
 public class SendMail {
     
     private Properties config;
