@@ -30,10 +30,6 @@ import org.owasp.validator.html.Policy;
 import org.owasp.validator.html.PolicyException;
 import org.owasp.validator.html.ScanException;
 
-/**
- * Clase de utilidades
- * @author Juan Díez-Yanguas Barber
- */
 public class Tools {
 
     public static String generateMD5Signature(String input) {
