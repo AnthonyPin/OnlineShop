@@ -13,9 +13,6 @@ import org.owasp.esapi.errors.IntrusionException;
 import org.owasp.esapi.errors.ValidationException;
 import persistencia.PersistenceInterface;
 
-/**
- * @author Juan Díez-Yanguas Barber
- */
 @MultipartConfig
 public class AddProductServlet extends HttpServlet {
 
