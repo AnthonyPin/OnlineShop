@@ -14,9 +14,6 @@ import org.jfree.chart.plot.PlotOrientation;
 import org.jfree.data.category.DefaultCategoryDataset;
 import persistencia.PersistenceInterface;
 
-/**
- * @author Juan Díez-Yanguas Barber
- */
 public class GeneradorDeEstadiaticasDeVentas {
     ArrayList <Carrito> historial = new ArrayList<Carrito>();
     
