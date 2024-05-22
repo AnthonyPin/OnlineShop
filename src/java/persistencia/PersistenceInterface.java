@@ -9,9 +9,6 @@ import java.util.LinkedList;
 import java.util.Map;
 import javax.servlet.http.HttpServletRequest;
 
-/**
- * @author Juan Díez-Yanguas Barber
- */
 public interface PersistenceInterface {
     public boolean init (String datos, String historiales, String log, String recover);
     //Pool de conexiones datos = JNDI
